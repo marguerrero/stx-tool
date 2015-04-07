@@ -109,156 +109,157 @@
             // 
             // button14
             // 
+            this.button14.Image = ((System.Drawing.Image)(resources.GetObject("button14.Image")));
             this.button14.Location = new System.Drawing.Point(613, 204);
             this.button14.MaximumSize = new System.Drawing.Size(93, 121);
             this.button14.MinimumSize = new System.Drawing.Size(93, 121);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(93, 121);
             this.button14.TabIndex = 13;
-            this.button14.Text = "Service Monitor";
             this.button14.UseVisualStyleBackColor = true;
             this.button14.Click += new System.EventHandler(this.button14_Click);
             // 
             // button13
             // 
+            this.button13.Image = ((System.Drawing.Image)(resources.GetObject("button13.Image")));
             this.button13.Location = new System.Drawing.Point(514, 204);
             this.button13.MaximumSize = new System.Drawing.Size(93, 121);
             this.button13.MinimumSize = new System.Drawing.Size(93, 121);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(93, 121);
             this.button13.TabIndex = 12;
-            this.button13.Text = "Registry Editor";
             this.button13.UseVisualStyleBackColor = true;
             this.button13.Click += new System.EventHandler(this.button13_Click);
             // 
             // button12
             // 
+            this.button12.Image = ((System.Drawing.Image)(resources.GetObject("button12.Image")));
             this.button12.Location = new System.Drawing.Point(415, 204);
             this.button12.MaximumSize = new System.Drawing.Size(93, 121);
             this.button12.MinimumSize = new System.Drawing.Size(93, 121);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(93, 121);
             this.button12.TabIndex = 11;
-            this.button12.Text = "Event Viewer";
             this.button12.UseVisualStyleBackColor = true;
             this.button12.Click += new System.EventHandler(this.button12_Click);
             // 
             // button11
             // 
+            this.button11.Image = ((System.Drawing.Image)(resources.GetObject("button11.Image")));
             this.button11.Location = new System.Drawing.Point(316, 204);
             this.button11.MaximumSize = new System.Drawing.Size(93, 121);
             this.button11.MinimumSize = new System.Drawing.Size(93, 121);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(93, 121);
             this.button11.TabIndex = 10;
-            this.button11.Text = "Device Manager";
             this.button11.UseVisualStyleBackColor = true;
             this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
             // button10
             // 
+            this.button10.Image = ((System.Drawing.Image)(resources.GetObject("button10.Image")));
             this.button10.Location = new System.Drawing.Point(217, 204);
             this.button10.MaximumSize = new System.Drawing.Size(93, 121);
             this.button10.MinimumSize = new System.Drawing.Size(93, 121);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(93, 121);
             this.button10.TabIndex = 9;
-            this.button10.Text = "Disk Defragment";
             this.button10.UseVisualStyleBackColor = true;
             this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // button9
             // 
+            this.button9.Image = ((System.Drawing.Image)(resources.GetObject("button9.Image")));
             this.button9.Location = new System.Drawing.Point(118, 204);
             this.button9.MaximumSize = new System.Drawing.Size(93, 121);
             this.button9.MinimumSize = new System.Drawing.Size(93, 121);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(93, 121);
             this.button9.TabIndex = 8;
-            this.button9.Text = "Disck Cleanup";
             this.button9.UseVisualStyleBackColor = true;
             this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button8
             // 
+            this.button8.Image = ((System.Drawing.Image)(resources.GetObject("button8.Image")));
             this.button8.Location = new System.Drawing.Point(19, 204);
             this.button8.MaximumSize = new System.Drawing.Size(93, 121);
             this.button8.MinimumSize = new System.Drawing.Size(93, 121);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(93, 121);
             this.button8.TabIndex = 7;
-            this.button8.Text = "Disk Manager";
             this.button8.UseVisualStyleBackColor = true;
             this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button7
             // 
+            this.button7.Image = ((System.Drawing.Image)(resources.GetObject("button7.Image")));
             this.button7.Location = new System.Drawing.Point(613, 60);
             this.button7.MaximumSize = new System.Drawing.Size(93, 121);
             this.button7.MinimumSize = new System.Drawing.Size(93, 121);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(93, 121);
             this.button7.TabIndex = 6;
-            this.button7.Text = "Control Panel";
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button6
             // 
+            this.button6.Image = ((System.Drawing.Image)(resources.GetObject("button6.Image")));
             this.button6.Location = new System.Drawing.Point(514, 60);
             this.button6.MaximumSize = new System.Drawing.Size(93, 121);
             this.button6.MinimumSize = new System.Drawing.Size(93, 121);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(93, 121);
             this.button6.TabIndex = 5;
-            this.button6.Text = "System Restore";
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button5
             // 
+            this.button5.Image = ((System.Drawing.Image)(resources.GetObject("button5.Image")));
             this.button5.Location = new System.Drawing.Point(415, 60);
             this.button5.MaximumSize = new System.Drawing.Size(93, 121);
             this.button5.MinimumSize = new System.Drawing.Size(93, 121);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(93, 121);
             this.button5.TabIndex = 4;
-            this.button5.Text = "System Monitor";
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button4
             // 
+            this.button4.Image = ((System.Drawing.Image)(resources.GetObject("button4.Image")));
             this.button4.Location = new System.Drawing.Point(316, 60);
             this.button4.MaximumSize = new System.Drawing.Size(93, 121);
             this.button4.MinimumSize = new System.Drawing.Size(93, 121);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(93, 121);
             this.button4.TabIndex = 3;
-            this.button4.Text = "System Configure";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
+            this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
+            this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button3.Location = new System.Drawing.Point(217, 60);
             this.button3.MaximumSize = new System.Drawing.Size(93, 121);
             this.button3.MinimumSize = new System.Drawing.Size(93, 121);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(93, 121);
             this.button3.TabIndex = 2;
-            this.button3.Text = "System Manager";
             this.button3.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
+            this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
             this.button2.Location = new System.Drawing.Point(118, 60);
             this.button2.MaximumSize = new System.Drawing.Size(93, 121);
             this.button2.MinimumSize = new System.Drawing.Size(93, 121);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(93, 121);
             this.button2.TabIndex = 1;
-            this.button2.Text = "System Properties ";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 

@@ -1,0 +1,9 @@
+C:\Users\Reymar\Documents\Visual Studio 2013\Projects\STX Tool\STX Tool\bin\Release\STX Tool.exe.config
+C:\Users\Reymar\Documents\Visual Studio 2013\Projects\STX Tool\STX Tool\bin\Release\STX Tool.exe
+C:\Users\Reymar\Documents\Visual Studio 2013\Projects\STX Tool\STX Tool\bin\Release\STX Tool.pdb
+C:\Users\Reymar\Documents\Visual Studio 2013\Projects\STX Tool\STX Tool\obj\Release\STX Tool.csprojResolveAssemblyReference.cache
+C:\Users\Reymar\Documents\Visual Studio 2013\Projects\STX Tool\STX Tool\obj\Release\STX_Tool.Test.resources
+C:\Users\Reymar\Documents\Visual Studio 2013\Projects\STX Tool\STX Tool\obj\Release\STX_Tool.Properties.Resources.resources
+C:\Users\Reymar\Documents\Visual Studio 2013\Projects\STX Tool\STX Tool\obj\Release\STX Tool.csproj.GenerateResource.Cache
+C:\Users\Reymar\Documents\Visual Studio 2013\Projects\STX Tool\STX Tool\obj\Release\STX Tool.exe
+C:\Users\Reymar\Documents\Visual Studio 2013\Projects\STX Tool\STX Tool\obj\Release\STX Tool.pdb
